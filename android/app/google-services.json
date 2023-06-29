@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "864679098331",
+    "project_id": "ecafedemo",
+    "storage_bucket": "ecafedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864679098331:android:986415b6e46c5cce9259fe",
+        "android_client_info": {
+          "package_name": "com.dafg.canteen_management_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPcunHDWDTOtasU94C8X-D7K25i0_wus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864679098331-qaj46ok5ge5jeqcjbhsrijvf33j50lov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafg.canteenManagementUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864679098331:android:25fd1ec5514dce929259fe",
+        "android_client_info": {
+          "package_name": "com.dafg.canteen_management_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPcunHDWDTOtasU94C8X-D7K25i0_wus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864679098331-qaj46ok5ge5jeqcjbhsrijvf33j50lov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafg.canteenManagementUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864679098331:android:771d26b07406f6b29259fe",
+        "android_client_info": {
+          "package_name": "com.ecafeashish.myfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPcunHDWDTOtasU94C8X-D7K25i0_wus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864679098331-qaj46ok5ge5jeqcjbhsrijvf33j50lov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafg.canteenManagementUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864679098331:android:dff6f37ea886ed0e9259fe",
+        "android_client_info": {
+          "package_name": "com.ecafesellers.myfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPcunHDWDTOtasU94C8X-D7K25i0_wus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864679098331-2ru9qsmrcp5soq9hclmggf33mgrhfad4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864679098331-qaj46ok5ge5jeqcjbhsrijvf33j50lov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dafg.canteenManagementUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
